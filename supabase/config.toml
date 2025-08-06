@@ -1,1 +1,10 @@
 project_id = "ozpwjblygfqpdspntbkl"
+
+[functions.download-video]
+verify_jwt = true
+
+[functions.get-downloads]
+verify_jwt = true
+
+[functions.get-video-info]
+verify_jwt = true
